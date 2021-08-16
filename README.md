@@ -1,4 +1,8 @@
-# *chart-releaser* Action
+<p align="center">
+  <img width="26%" src="https://user-images.githubusercontent.com/22690219/129509576-33f2de69-a7ae-4126-b2a4-ccb4639aaadd.png" />
+</p>
+
+# *chart-releaser* Plugin
 
 A GitHub action to turn a GitHub project into a self-hosted Helm chart repo, using [helm/chart-releaser](https://github.com/helm/chart-releaser) CLI tool.
 
